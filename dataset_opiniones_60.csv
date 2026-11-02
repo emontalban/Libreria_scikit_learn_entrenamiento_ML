@@ -1,0 +1,61 @@
+﻿id,comentario,sentimiento
+1,La experiencia ha sido muy positiva.,positivo
+2,Me atendieron con poca paciencia y sin amabilidad.,negativo
+3,Recibí exactamente lo que había pedido.,positivo
+4,Funciona de maravilla y cumple lo que promete.,positivo
+5,El pedido llegó antes de lo esperado.,positivo
+6,Ha sido una compra muy acertada.,positivo
+7,La calidad es pésima y parece muy frágil.,negativo
+8,Todo llegó en perfectas condiciones.,positivo
+9,"Es una tienda de confianza, la recomiendo.",positivo
+10,El envío tardó demasiado y llegó dañado.,negativo
+11,Me atendieron con mucha paciencia y amabilidad.,positivo
+12,Estoy satisfecha con la calidad y el servicio.,positivo
+13,Todo el proceso fue sencillo y agradable.,positivo
+14,El pedido llegó con muchos días de retraso.,negativo
+15,Estoy encantada con el resultado.,positivo
+16,"No me ha gustado nada, el producto llegó roto.",negativo
+17,El paquete llegó en malas condiciones.,negativo
+18,La atención al cliente fue amable y rápida.,positivo
+19,La entrega fue puntual y el paquete estaba bien protegido.,positivo
+20,El producto superó mis expectativas.,positivo
+21,La experiencia ha sido muy negativa.,negativo
+22,"Me encanta el producto, funciona perfectamente.",positivo
+23,El equipo resolvió mi problema enseguida.,positivo
+24,La solución que me ofrecieron fue excelente.,positivo
+25,La solución que me ofrecieron no sirvió de nada.,negativo
+26,Es mucho peor de lo que esperaba.,negativo
+27,El producto es incómodo y difícil de utilizar.,negativo
+28,No recomiendo esta tienda a nadie.,negativo
+29,No merece la pena por este precio.,negativo
+30,La atención al cliente fue desagradable.,negativo
+31,No estoy satisfecha ni con la calidad ni con el servicio.,negativo
+32,La calidad es excelente y estoy muy satisfecha.,positivo
+33,La presentación del paquete es preciosa.,positivo
+34,La relación calidad-precio es excelente.,positivo
+35,No volvería a comprar en esta tienda.,negativo
+36,Dejó de funcionar después del primer uso.,negativo
+37,La experiencia de compra ha sido estupenda.,positivo
+38,La tienda ofrece un servicio magnífico.,positivo
+39,El paquete llegó abierto y faltaban piezas.,negativo
+40,Recibí un artículo diferente al que había pedido.,negativo
+41,"El producto es fantástico, lo recomiendo.",positivo
+42,"Me ha sorprendido para bien, es mejor de lo que esperaba.",positivo
+43,Nadie resolvió mi problema.,negativo
+44,El envío fue rápido y el producto llegó perfecto.,positivo
+45,El servicio fue lento y poco eficiente.,negativo
+46,La experiencia de compra ha sido horrible.,negativo
+47,La entrega no fue puntual y nadie avisó.,negativo
+48,Estoy muy descontenta con el resultado.,negativo
+49,La relación calidad-precio es muy mala.,negativo
+50,El servicio fue rápido y eficiente.,positivo
+51,Volvería a comprar sin ninguna duda.,positivo
+52,Ha sido una compra de la que me arrepiento.,negativo
+53,Estoy muy decepcionada con esta compra.,negativo
+54,El producto no funciona correctamente.,negativo
+55,El producto no cumple lo que promete.,negativo
+56,La tienda ofrece un servicio decepcionante.,negativo
+57,Estoy muy contenta con mi compra.,positivo
+58,El proceso de devolución fue complicado.,negativo
+59,"El producto es cómodo, práctico y fácil de utilizar.",positivo
+60,Tiene una calidad buenísima por este precio.,positivo
